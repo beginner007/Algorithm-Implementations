@@ -18,7 +18,7 @@
 #define PI 3.14159265
 #define gs getline(cin,s)
 
-using namespace std;
+using namespace std;   
 
 struct node
 {
